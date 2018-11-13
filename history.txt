@@ -1,0 +1,12 @@
+s
+    1  clear
+    2  pwd
+    3  cd 
+    4  pwd
+    5  ls
+    6  cd Development
+    7  ls
+    8  cd 11-18
+    9  ls
+   10  cd unit1
+   11  ls
